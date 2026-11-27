@@ -1,0 +1,9 @@
+Write a prompt asking ChatGPT to summarize a technology article in exactly three sentences.
+
+act as a article writer
+prompt 
+* I need to summarize a technology article  
+in exactly three sentences 
+* three sentences are important sentences 
+* I need in a pdf
+* with colour full picture regarding to it 
